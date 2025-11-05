@@ -43,6 +43,12 @@ Students often struggle with navigating multiple systems to access grades, timet
 * Implementation of **notifications and reminders** for deadlines.
 * Addition of **admin analytics** to track overall class or department performance.
 * Mobile-friendly responsive design improvements.
+* <img width="1920" height="1080" alt="Screenshot (95)" src="https://github.com/user-attachments/assets/33f87ac2-0c63-452c-bb00-9ca79615c94f" />
+<img width="1920" height="1080" alt="Screenshot (94)" src="https://github.com/user-attachments/assets/2d4a183d-03a1-44ec-a343-407972e5bd31" />
+<img width="1620" height="825" alt="Screenshot (96)" src="https://github.com/user-attachments/assets/cb6a52c4-8534-4599-ad0e-f7b5d8c6bf5a" />
+
+
+
 
 udayasriseeloju 
 Project Lead & Developer
